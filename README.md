@@ -28,7 +28,7 @@ SQL  47 mins         ████▒░░░░░░░░░░░░░░�
 JSON     43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57%
 HTML     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59%
 CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31%
-Javascript      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24%
+JavaScript      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24%
 
 ```
 
@@ -43,7 +43,7 @@ Javascript      0 secs          ░░░░░░░░░░░░░░░░
 - Deploying projects using **AWS & Google Cloud**  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-vishwakarma-a9a16b222)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitavishwakarma/)  
 
 🚀 **Portfolio:** https://arpitacodes.online/               
 
