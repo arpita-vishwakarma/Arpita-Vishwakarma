@@ -11,11 +11,10 @@ I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interes
 
 
 ## 💻 Tech Stack  
-🔹 **Programming:** Python, JavaScript                       
+🔹 **Programming:** Python                     
 🔹 **Web Development:** Django, React, React Native, HTML, CSS  
 🔹 **Databases:** MySQL, PostgreSQL, Firebase  
 🔹 **Tools & Platforms:** Docker, Git, Linux, AWS (EC2), Azure Cloud 
-🔹 **Data Science & AI:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
 ## 📊 GitHub Stats  
 
@@ -37,10 +36,6 @@ JavaScript      0 secs          ░░░░░░░░░░░░░░░░
   <img src="https://github-readme-stats.vercel.app/api?username=Arpita-Vishwakarma&show_icons=true&theme=gotham&cache_seconds=86400" alt="Arpita's GitHub Stats">
 </p>
 
-## 🌱 Currently Learning  
-- Advanced **Machine Learning** & **AI** concepts  
-- Building scalable applications with **Django REST Framework**  
-- Deploying projects using **AWS & Google Cloud**  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitavishwakarma/)  
