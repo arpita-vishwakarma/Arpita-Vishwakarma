@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | Python | Backend | Tech Enthusiast
 
-I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interest in Data Science, AI, and Web Development.                          
+I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interest in AI and Web Development.                          
 💡 I love crafting digital solutions with clean, efficient, and scalable code!                                                                          
 🤝 Always open to collaborating on open-source projects!                                                                     
 🎯 Goal: To build impactful projects that solve real-world problems.                                       
