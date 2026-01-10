@@ -1,6 +1,6 @@
 # Hi there, I'm Arpita! 👋  
 
-### 🚀 Data Science Enthusiast | Python Developer | EDA
+### 💻 Software Developer | Python | Backend | Tech Enthusiast
 
 I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interest in Data Science, AI, and Web Development.                          
 💡 I love crafting digital solutions with clean, efficient, and scalable code!                                                                          
@@ -14,7 +14,7 @@ I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interes
 🔹 **Programming:** Python, JavaScript                       
 🔹 **Web Development:** Django, React, React Native, HTML, CSS  
 🔹 **Databases:** MySQL, PostgreSQL, Firebase  
-🔹 **Tools & Platforms:** Docker, Git, Linux, AWS (EC2), Google Cloud  
+🔹 **Tools & Platforms:** Docker, Git, Linux, AWS (EC2), Azure Cloud 
 🔹 **Data Science & AI:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
 ## 📊 GitHub Stats  
