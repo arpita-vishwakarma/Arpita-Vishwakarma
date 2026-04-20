@@ -1,6 +1,6 @@
 # Hi there, I'm Arpita! 👋  
 
-### 💻 Software Developer | Python | Backend | Tech Enthusiast
+### 💻 Python Developer | AI/LLM | Backend Engineer 
 
 I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interest in AI and Web Development.                          
 💡 I love crafting digital solutions with clean, efficient, and scalable code!                                                                          
