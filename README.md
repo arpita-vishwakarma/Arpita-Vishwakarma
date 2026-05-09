@@ -1,18 +1,17 @@
 # Hi there, I'm Arpita! 👋  
 
-### 💻 Python Developer | AI/LLM | Backend Engineer
+### 💻 Python Backend & AI/LLM Engineer
 
-I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interest in AI and Web Development.                          
-💡 I love crafting digital solutions with clean, efficient, and scalable code!                                                                          
-🤝 Always open to collaborating on open-source projects!                                                                     
-🎯 Goal: To build impactful projects that solve real-world problems.                                       
+Python Backend & AI/LLM Engineer with experience building scalable backend systems, REST APIs, AI-powered applications, and cloud-native services using Django, FastAPI, Flask, PostgreSQL, and Azure OpenAI.
+
+I enjoy building production-grade backend architectures, AI-integrated workflows, RAG pipelines, and high-performance APIs focused on scalability, reliability, and real-world impact                                 
 
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" height="400">
 
 
 ## 💻 Tech Stack 
 🔹 **Programming:** Python                     
-🔹 **Web Development:** Django, React, React Native, HTML, CSS  
+🔹 **Web Development:** Django REST Framework (DRF), React, React Native, HTML, CSS, Celery, Asynchronous Processing
 🔹 **Databases:** MySQL, PostgreSQL, Firebase  
 🔹 **Tools & Platforms:** Docker, Git, Linux, AWS (EC2), Azure Cloud 
 
