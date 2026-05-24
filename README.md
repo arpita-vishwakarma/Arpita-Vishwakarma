@@ -1,6 +1,6 @@
 # Hi there, I'm Arpita! 👋  
 
-### 💻 Python Backend & AI/LLM Engineer
+### 💻 Python | FastAPI | Django | GenAI | RAG | LLM Engineer
 
 Python Backend & AI/LLM Engineer with experience building scalable backend systems, REST APIs, AI-powered applications, and cloud-native services using Django, FastAPI, Flask, PostgreSQL, and Azure OpenAI.
 
@@ -10,14 +10,29 @@ I enjoy building production-grade backend architectures, AI-integrated workflows
 
 
 ## 💻 Tech Stack 
-🔹 **Programming:** Python                     
-🔹 **Web Development:** Django REST Framework (DRF), React, React Native, HTML, CSS, Redis,  Celery, Asynchronous Processing
+🔹 **GenAI & AI Systems:**  
+LLMs, RAG Pipelines, Azure OpenAI, MCP, Prompt Engineering, AI Agents, Vector Databases, LangChain, Semantic Search
 
-🔹 **Databases:** MySQL, PostgreSQL, Firebase  
-🔹 **Tools & Platforms:** Docker, Git, Linux, AWS (EC2), Azure Cloud 
+🔹 **Backend Architecture:**  
+Microservices, API Design, Async Processing, Celery, Redis, Background Jobs, Webhooks
+
+🔹 **Databases & Search:**  
+PostgreSQL, MySQL, Redis, Vector DBs, Firebase
+
+🔹 **Cloud & DevOps:**  
+Docker, Azure Cloud, AWS EC2, CI/CD, Linux, Nginx
+
+## 🚀 Currently Exploring
+
+- AI Agents & MCP Architectures
+- RAG Pipelines with Azure OpenAI
+- Async Python Backend Systems
+- Distributed Systems & Scalability
+- FastAPI Production Architectures
+- LLM Evaluation & Prompt Engineering
+
 
 ## 📊 GitHub Stats  
-
 
 
 📝  **This week I spent my time on:**
