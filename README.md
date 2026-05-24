@@ -11,7 +11,7 @@ I enjoy building production-grade backend architectures, AI-integrated workflows
 
 ## 💻 Tech Stack 
 🔹 **Programming:** Python                     
-🔹 **Web Development:** Django REST Framework (DRF), React, React Native, HTML, CSS, Celery, Asynchronous Processing
+🔹 **Web Development:** Django REST Framework (DRF), React, React Native, HTML, CSS, Redis,  Celery, Asynchronous Processing
 🔹 **Databases:** MySQL, PostgreSQL, Firebase  
 🔹 **Tools & Platforms:** Docker, Git, Linux, AWS (EC2), Azure Cloud 
 
