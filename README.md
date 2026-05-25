@@ -22,15 +22,6 @@ PostgreSQL, MySQL, Redis, Vector DBs, Firebase
 🔹 **Cloud & DevOps:**  
 Docker, Azure Cloud, AWS EC2, CI/CD, Linux, Nginx
 
-## 🚀 Currently Exploring
-
-- AI Agents & MCP Architectures
-- RAG Pipelines with Azure OpenAI
-- Async Python Backend Systems
-- Distributed Systems & Scalability
-- FastAPI Production Architectures
-- LLM Evaluation & Prompt Engineering
-
 
 ## 📊 GitHub Stats  
 
