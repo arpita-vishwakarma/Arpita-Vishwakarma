@@ -1,6 +1,6 @@
 # Hi there, I'm Arpita! 👋
 
-### 💻 Python | FastAPI | Django | GenAI | RAG | LLM Engineer
+### 💻 Python | FastAPI | Django | GenAI | LLMs & RAG
 
 > ⚡ I make APIs talk and AI think.
 
