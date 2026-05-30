@@ -1,11 +1,16 @@
-# Hi there, I'm Arpita! 👋  
+# Hi there, I'm Arpita! 👋
 
 ### 💻 Python | FastAPI | Django | GenAI | RAG | LLM Engineer
 
-Python Backend & AI/LLM Engineer with experience building scalable backend systems, REST APIs, AI-powered applications, and cloud-native services using Django, FastAPI, Flask, PostgreSQL, and Azure OpenAI.
+> ⚡ I make APIs talk and AI think.
 
-I enjoy building production-grade backend architectures, AI-integrated workflows, RAG pipelines, and high-performance APIs focused on scalability, reliability, and real-world impact                                 
+Building scalable backends, intelligent AI systems, and automation workflows with Python, Django, FastAPI, LLMs, RAG, PostgreSQL, Redis, Docker, and cloud technologies.
 
+🎯 Turning complex ideas into production-ready products that scale.
+
+✨ Open to impactful opportunities, ambitious projects, and meaningful collaborations.
+
+<br>
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" height="400">
 
 
@@ -44,8 +49,7 @@ HTML     4 mins          ▒░░░░░░░░░░░░░░░░░�
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitavishwakarma/)  
 
-🚀 **Portfolio:** www.arpitavishwakarma.com               
-
+🌐 ***Portfolio:*** www.arpitavishwakarma.com
 ---
 
 _✨ Let's build something incredible together! ✨_  
